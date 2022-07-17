@@ -22,6 +22,7 @@ button:hover{
 }
 .banner{
     height: 140px;
+    width: auto;
     background-color: black;
     text-align: center;
 }
